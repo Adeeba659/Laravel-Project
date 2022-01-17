@@ -1,2 +1,2 @@
-# Laravel-Project-by-ShafHameed-and-Adeeba
+# Laravel-Project-by-Shaf-and-Adeeba
 # Laravel-Project
